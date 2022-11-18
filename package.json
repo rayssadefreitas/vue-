@@ -1,5 +1,5 @@
 {
-  "name": "pizza",
+  "name": "tinta",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -13,7 +13,5 @@
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-service": "~5.0.0"
-  },
-  "_id": "pizza@0.1.0",
-  "readme": "ERROR: No README data found!"
+  }
 }
